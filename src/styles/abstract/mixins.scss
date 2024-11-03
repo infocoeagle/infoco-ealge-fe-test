@@ -1,0 +1,99 @@
+@mixin font(
+  $size,
+  $weight,
+  $line-height,
+  $letter-spacing: $letter-spacing-normal,
+  $font-color: $color-white,
+  $text-decoration: none,
+  $font-family: $font-family-secondary
+) {
+  font-size: $size;
+  font-weight: $weight;
+  line-height: $line-height;
+  letter-spacing: $letter-spacing;
+  color: $font-color;
+  text-decoration: $text-decoration;
+  font-family: $font-family;
+}
+
+@mixin badge($type: 'primary', $padding: 16px 14px) {
+  border-radius: 5px;
+  padding: $padding;
+  max-width: 100%;
+  transition-property: color, background-color, border;
+  transition-duration: 300ms;
+  transition-timing-function: ease-in-out;
+
+  @if $type == 'primary' {
+    background-color: $color-black;
+    color: $color-white;
+
+    &:hover {
+      background-color: $color-light;
+      color: $color-black;
+    }
+  } @else if $type == 'bordered' {
+    border: 1px solid $color-light;
+    background-color: $color-white;
+    color: $color-black;
+
+    &:hover {
+      border-color: $color-black;
+    }
+  }
+}
+
+@mixin absCenterX() {
+  position: absolute;
+  left: 50%;
+  transform: translateX(-50%);
+}
+
+@mixin absCenter() {
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  transform: translate(-50%, -50%);
+}
+
+@mixin cardGeneralStyles() {
+  position: relative;
+  width: 330px;
+  height: 330px;
+  border-radius: 10px;
+  overflow: hidden;
+  cursor: pointer;
+}
+
+@mixin searchResult() {
+  .search-result {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px 40px 20px 0px;
+    .title {
+      @include font(
+        $font-size-x-large,
+        $font-weight-semibold,
+        $line-height-base,
+        $letter-spacing-normal,
+        $color-heading,
+        none,
+        $font-family-primary
+      );
+    }
+
+    .result {
+      @include font(
+        $font-size-medium,
+        $font-weight-semibold,
+        $line-height-base,
+        $letter-spacing-normal,
+        $color-heading,
+        none,
+        $font-family-primary
+      );
+    }
+  }
+}

@@ -1,0 +1,38 @@
+.seller-card-container {
+  @include cardGeneralStyles();
+
+  .shadow {
+    transition: height 300ms ease-in-out;
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    background: linear-gradient(to top, black, transparent);
+    height: 170px;
+    width: 100%;
+  }
+
+  &:hover .shadow {
+    height: 230px;
+  }
+
+  .name {
+    @include absCenterX();
+    z-index: 50;
+    width: 100%;
+    text-align: center;
+    bottom: 30px;
+    text-transform: uppercase;
+    @include font(
+      $font-size-2x-large,
+      $font-weight-semibold,
+      $line-height-base,
+      $letter-spacing-wide,
+      $color-white
+    );
+    transition: bottom 300ms ease-in-out;
+  }
+
+  &:hover .name {
+    bottom: 50px;
+  }
+}

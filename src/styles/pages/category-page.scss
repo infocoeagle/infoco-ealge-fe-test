@@ -1,0 +1,28 @@
+.category-container{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin-top: 16px;
+    min-height: 60vh;
+    background: linear-gradient(90deg, $color-black, $color-white, $color-light);
+    background-size: 200% 200%;
+    animation: gradient 2s linear infinite;
+    @keyframes gradient {
+        0% {
+            background-position: 0% 50%;
+        }
+        100% {
+            background-position: 100% 50%;
+        }
+    }
+    .coming-soon-text {
+        @include font(
+            $font-size-4x-large,
+            $font-weight-normal,
+            $line-height-base,
+            $letter-spacing-wide,
+            $color-text-dim
+        );
+        margin-top: 16px;        
+    }
+}

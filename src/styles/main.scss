@@ -1,0 +1,40 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&family=Oswald:wght@200..700&display=swap');
+
+@import './abstract/variables.scss';
+@import './abstract/mixins.scss';
+@import './base/typography.scss';
+
+@import './components/button.scss';
+@import './components/footer.scss';
+@import './components/header.scss';
+@import './components/hero.scss';
+@import './components/hero-seller.scss';
+@import './components/trending-products.scss';
+@import './components/banner.scss';
+@import './components/shop-and-sell.scss';
+@import './components/bread-crumbs.scss';
+@import './layouts/search-layout.scss';
+//cards
+
+@import './components/cards/seller-card.scss';
+@import './components/cards/brand-card.scss';
+@import './components/cards/product-card.scss';
+// search
+@import './components/search/search.scss';
+@import './components/search/search-seller-list.scss';
+@import './components/search/search-result-card.scss';
+@import './components/search/search-product-list.scss';
+
+// pages
+@import './pages/search-page.scss';
+@import './pages/category-page.scss';
+
+@import './components/filters.scss';
+
+body {
+  font-family: $font-family-primary, $font-family-secondary;
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  // background-color: $color-black;
+}

@@ -1,0 +1,84 @@
+.footer-container {
+  background-color: $color-black;
+  padding: 80px 88px 80px 88px;
+  margin-top: 100px;
+  // align at the bottom of the page
+  align-self: flex-end;
+  .logo-and-socials {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 40px;
+    .social-links {
+      display: flex;
+      justify-content: space-between;
+      gap: 8px;
+      svg {
+        cursor: pointer;
+      }
+    }
+  }
+
+  .footer-links {
+    display: flex;
+    gap: 56px;
+    margin-bottom: 40px;
+    .footer-link {
+      display: flex;
+      flex-direction: column;
+      gap: 8px;
+      // TODO: import from typography
+      h3 {
+        @include font($font-size-larger, $font-weight-bold, $line-height-base);
+      }
+      a {
+        @include font(
+          $font-size-smaller,
+          $font-weight-normal,
+          $line-height-base,
+          $letter-spacing-normal,
+          $color-text-light
+        );
+        &:hover {
+          @include font(
+            $font-size-smaller,
+            $font-weight-normal,
+            $line-height-base,
+            $letter-spacing-normal,
+            $color-white
+          );
+        }
+      }
+    }
+  }
+  .footer-rights-and-terms {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    .footer-rights {
+      @include font(
+        $font-size-smaller,
+        $font-weight-normal,
+        $line-height-base,
+        $letter-spacing-normal,
+        $color-text-light
+      );
+    }
+    .terms {
+      display: flex;
+      gap: 16px;
+      a {
+        @include font(
+          $font-size-smaller,
+          $font-weight-normal,
+          $line-height-base,
+          $letter-spacing-normal,
+          $color-text-light
+        );
+        &:hover {
+          color: white;
+        }
+      }
+    }
+  }
+}

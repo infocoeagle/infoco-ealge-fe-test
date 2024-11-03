@@ -1,0 +1,41 @@
+.home-banner {
+  background-image: url(/assets/images/banner-background.png);
+  background-size: cover;
+  height: 390px;
+  background-color: $color-white;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  flex-direction: row;
+  padding: 40px 30px 40px 30px;
+  gap: 20px;
+  .banner-logo {
+    background-color: #ffc0cb;
+    border-radius: 9999px;
+    width: fit-content;
+  }
+  .banner-info {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    .heading {
+      @include font(
+        $font-size-3x-large,
+        $font-weight-bold,
+        $line-height-heading,
+        $letter-spacing-wide,
+        $color-white
+      );
+    }
+    .sub-heading {
+      @include font(
+        $font-size-large,
+        $font-weight-normal,
+        $line-height-heading,
+        .8em,
+        $color-white
+      );
+    }
+  }
+}

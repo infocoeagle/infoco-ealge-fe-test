@@ -1,0 +1,14 @@
+.search-product-list {
+  @include searchResult();
+  .products {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    gap:20px
+  }
+  .show-more{
+    display: flex;
+    justify-content: center;
+    margin: 40px;
+  }
+}

@@ -1,0 +1,51 @@
+@import '../abstract/variables.scss';
+@import '../abstract/mixins.scss';
+
+// Typography classes
+.heading {
+  font-family: $font-family-primary;
+  font-weight: $font-weight-bold;
+  color: $color-heading;
+}
+
+.h1 {
+  @include font(32px, $font-weight-bold, $line-height-heading);
+  margin-bottom: 16px;
+}
+
+.h2 {
+  @include font(28px, $font-weight-bold, $line-height-heading);
+  margin-bottom: 14px;
+}
+
+.h3 {
+  @include font(24px, $font-weight-bold, $line-height-heading);
+  margin-bottom: 12px;
+}
+
+.p {
+  @include font($font-size-base, $font-weight-normal, $line-height-base);
+  margin-bottom: 10px;
+}
+
+.small-text {
+  @include font($font-size-small, $font-weight-light, $line-height-base);
+  color: $color-white;
+}
+
+.large-text {
+  @include font($font-size-large, $font-weight-normal, $line-height-base);
+}
+
+// Utility Classes
+.text-center {
+  text-align: center;
+}
+
+.text-left {
+  text-align: left;
+}
+
+.text-right {
+  text-align: right;
+}

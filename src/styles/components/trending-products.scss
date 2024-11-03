@@ -1,0 +1,24 @@
+.trending-products-container {
+  padding: 70px 30px 70px 30px;
+  background-color: $color-white;
+  align-items: center;
+  .title {
+    @include font(
+      $font-size-4x-large,
+      $font-weight-bold,
+      $line-height-base,
+      $letter-spacing-tight,
+      $color-black,
+      $font-family-secondary
+    );
+    text-align: center;
+    margin-bottom: 40px;
+  }
+  .products {
+    display: flex;
+    flex-direction: row;
+    gap:20px;
+    align-items: center;
+    justify-content: space-around;
+  }
+}

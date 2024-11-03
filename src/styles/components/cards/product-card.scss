@@ -1,0 +1,132 @@
+.product-card-container {
+  max-width: 300px;
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+  border-radius: 5px;
+  padding-block: 10px;
+  transition: box-shadow 300ms ease-in-out;
+
+  &:hover {
+    box-shadow: 0px 10px 10px #46464637;
+  }
+
+  .image-container {
+    max-width: 100%;
+    max-height: 350px;
+    position: relative;
+    padding: 26px;
+    border: 1px solid $color-text-light;
+    border-radius: 5px;
+    display: grid;
+    place-content: center;
+    cursor: pointer;
+    transition: border 300ms ease-in-out;
+
+    &:hover {
+      border-color: $color-black;
+    }
+
+    .header {
+      position: absolute;
+      top: 10px;
+      left: 10px;
+      width: calc(100% - 20px);
+      overflow: visible;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+
+      .start-content {
+        padding: 6px 10px;
+        border: 1px solid $color-black;
+        text-align: center;
+        @include font(
+          $font-size-x-tiny,
+          $font-weight-normal,
+          $line-height-base,
+          $letter-spacing-wide,
+          $color-black
+        );
+        @include badge($type: 'primary', $padding: 5px);
+      }
+    }
+
+    .footer {
+      position: absolute;
+      bottom: 10px;
+      left: 10px;
+      width: calc(100% - 20px);
+      overflow: visible;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+    }
+  }
+
+  .details {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+
+    .brand {
+      display: flex;
+      gap: 10px;
+      align-items: center;
+      .image {
+        max-width: 35px;
+        max-height: 35px;
+        border-radius: 50%;
+      }
+
+      h4 {
+        @include font(
+          $font-size-tiny,
+          $font-weight-bold,
+          $line-height-base,
+          $letter-spacing-wide,
+          $color-black,
+          $font-family: $font-family-primary
+        );
+      }
+    }
+
+    .info {
+      text-align: center;
+      @include font(
+        12,
+        $font-weight-normal,
+        $line-height-base,
+        $letter-spacing-wide,
+        $color-black,
+        $font-family: $font-family-primary
+      );
+      p {
+        font-size: $font-size-tiny;
+      }
+      span {
+        @include font(
+          $font-size-tiny,
+          $font-weight-bold,
+          $line-height-base,
+          $font-color: $color-black
+        );
+      }
+    }
+  }
+
+  .actions {
+    display: flex;
+    align-items: center;
+    gap: 16px;
+    margin-inline: auto;
+  }
+}
+
+* {
+  padding: 0;
+  margin: 0;
+}

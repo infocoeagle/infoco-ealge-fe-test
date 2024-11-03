@@ -1,0 +1,49 @@
+.filters-container {
+  padding-inline-start: 46px;
+
+  .query {
+    font-size: $font-size-2x-large;
+  }
+
+  .checkbox-container {
+    display: flex;
+    gap: 10px;
+    align-items: center;
+    * {
+      cursor: pointer;
+    }
+
+    .label {
+      display: flex;
+      align-items: center;
+      user-select: none;
+      font-size: $font-size-smaller;
+      margin-bottom: 5px;
+    }
+  }
+
+  .filters {
+    padding-block: 10px;
+    display: grid;
+    gap: 10px;
+    .heading {
+      @include font(
+        $font-size-large,
+        $font-weight-medium,
+        $line-height-base,
+        $letter-spacing-normal,
+        $color-black
+      );
+    }
+
+    .load-more {
+      display: flex;
+      justify-content: center;
+      margin: 10px;
+    }
+  }
+  @media screen and (max-width: 1024px) {
+    width: 100%;
+    
+  }
+}

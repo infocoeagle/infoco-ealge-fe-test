@@ -1,0 +1,26 @@
+.breadcrumbs {
+  display: flex;
+  gap: 8px;
+  padding: 24px 50px 24px 50px;
+  align-items: center;
+  .breadcrumbs-active {
+    @include font(
+      $font-size-smaller,
+      $font-weight-bold,
+      $line-height-base,
+      $letter-spacing-normal,
+      $color-text-light
+    );
+    cursor: pointer;
+  }
+  .breadcrumbs-inactive {
+    @include font(
+      $font-size-smaller,
+      $font-weight-normal,
+      $line-height-base,
+      $letter-spacing-normal,
+      $color-text-dim
+    );
+    cursor: pointer;
+  }
+}

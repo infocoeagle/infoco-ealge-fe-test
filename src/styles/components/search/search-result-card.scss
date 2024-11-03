@@ -1,0 +1,19 @@
+.search-result-item-card {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  border-radius: 14px;
+  padding: 10px;
+  transition: background-color 300ms ease-in-out;
+  cursor: pointer;
+  font-size: $font-size-small;
+
+  img {
+    border-radius: 50%;
+    object-fit: cover;
+  }
+
+  &:hover {
+    background-color: $color-light;
+  }
+}

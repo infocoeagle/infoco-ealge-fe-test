@@ -1,0 +1,93 @@
+.header-container {
+  background-color: $color-black;
+  padding: 40px 88px 40px 88px;
+
+  .header {
+    background-color: $color-black;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    .cart-container {
+      display: flex;
+      flex-direction: row;
+      align-items: center;
+      gap: 20px;
+    }
+    .icon {
+      cursor: pointer;
+    }
+  }
+  .search-container {
+    background-color: $color-black;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 16px;
+    .search {
+      width: 40%;
+      background-color: $color-white;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      border-radius: 50px;
+      @media screen and (max-width: 1024px) {
+        width: 60%;
+      }
+      @media screen and (max-width: 768px) {
+        width: 80%;
+      }
+      @media screen and (max-width: 480px) {
+        width: 90%;
+      }
+      input {
+        border: none;
+        outline: none;
+        padding: 10px;
+        width: 80%;
+        border-radius: 50px;
+        @include font(
+          $font-size-base,
+          $font-weight-normal,
+          $line-height-base,
+          $letter-spacing-wide,
+          $color-black
+        );
+      }
+    }
+  }
+  .menu{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+
+    width: 80%;
+    margin: 26px auto 0; 
+    @media screen and (max-width: 900px) {
+      display: none;
+    }
+    .menu-item {
+      @include font(
+        $font-size-base,
+        $font-weight-normal,
+        $line-height-base,
+        $letter-spacing-wide,
+        $color-white,
+        none,
+        $font-family-primary
+      );
+      cursor: pointer;
+      display: flex;
+      align-items: center;
+      padding: 10px 20px;
+      border-radius: 50px;
+      transition : background-color 0.5s ease;
+      &:hover {
+        background-color: $color-active-bg;
+      }
+      .menu-dropdown {
+        margin-left: 5px;
+        margin-top: 10px;
+      }
+    }
+  }
+}

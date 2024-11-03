@@ -1,0 +1,38 @@
+.brand-card-container {
+  @include cardGeneralStyles();
+
+  .overlay {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    transition: background-color 300ms ease-in-out;
+    background-color: rgba(0, 0, 0, 0.5);
+  }
+
+  &:hover .overlay {
+    background-color: rgba(0, 0, 0, 0.6);
+  }
+
+  .get-paid-sameday-tag {
+    position: absolute;
+    top: 5%;
+    right: 5%;
+    z-index: 50;
+  }
+
+  .name {
+    @include absCenter();
+    width: 100%;
+    text-align: center;
+    @include font(
+      $font-size-2x-large,
+      $font-weight-semibold,
+      $line-height-base,
+      $letter-spacing-wide,
+      $color-white,
+      $font-family: $font-family-primary
+    );
+  }
+}

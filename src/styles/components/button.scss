@@ -1,0 +1,13 @@
+.btn {
+  cursor: pointer;
+  overflow: hidden;
+  border: none;
+
+  .primary {
+    @include badge($type: 'primary');
+  }
+
+  .bordered {
+    @include badge($type: 'bordered');
+  }
+}

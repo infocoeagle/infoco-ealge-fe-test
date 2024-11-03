@@ -1,0 +1,6 @@
+.search-seller-list {
+  @include searchResult();
+  .users {
+    max-width: 65vw;
+  }
+}

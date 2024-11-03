@@ -1,0 +1,727 @@
+[
+  {
+    "id": "660620c17112dace5e5f7c95",
+    "productId": "8d29764b-b7ea-3d17-81f6-5882f58b65a2",
+    "active": true,
+    "available": true,
+    "badges": ["same-day-pay"],
+    "brand": {
+      "name": "Facetory",
+      "merchantBrand": false
+    },
+    "merchantId": "e0db9017-3094-4841-86e9-e1eb08887d75",
+    "merchantProductId": "3205055",
+    "commissionRate": 15,
+    "locales": [
+      {
+        "country": "US",
+        "language": "en-US",
+        "currency": "USD",
+        "active": true,
+        "available": true,
+        "variants": [
+          {
+            "merchantVariantId": "3205055",
+            "title": "Oats My Bananas Sheet Mask",
+            "description": "FaceTory. Calm irritated skin with our oats-so-amazing sheet mask featuring a soft banana fiber material! This milky essence contains 10% Oat Extract to soothe and moisturize your skin. Say hello to a smooth, supple, and glowing complexion!Learn more about the FaceTory brand and its products on our blog!",
+            "price": 1.7,
+            "oldPrice": 1.7,
+            "stockCount": 10,
+            "active": true,
+            "available": true,
+            "images": [
+              {
+                "url": "https://www.ecosmetics.com/wp-content/uploads/2022/09/Facetory-Oats-My-Bananas-Sheet-Mask-0.85-fl-oz-850014132170-1.png",
+                "index": 0
+              }
+            ],
+            "options": [
+              {
+                "key": "size",
+                "keyName": "Size",
+                "value": "0.85 fl oz"
+              }
+            ],
+            "createdAt": "2024-09-12T14:13:15.799Z",
+            "updatedAt": "2024-10-26T06:22:49.57Z"
+          },
+          {
+            "title": "Oats My Bananas Sheet Mask",
+            "description": "eCosmetics is an authorized retailer of FaceTory. Calm irritated skin with our oats-so-amazing sheet mask featuring a soft banana fiber material! This milky essence contains 10% Oat Extract to soothe and moisturize your skin. Say hello to a smooth, supple, and glowing complexion!Learn more about the FaceTory brand and its products on our blog!",
+            "price": 3.39,
+            "oldPrice": 3.39,
+            "stockCount": 0,
+            "active": false,
+            "available": false,
+            "images": [
+              {
+                "url": "https://www.ecosmetics.com/wp-content/uploads/2022/09/Facetory-Oats-My-Bananas-Sheet-Mask-0.85-fl-oz-850014132170-1.png",
+                "index": 0
+              }
+            ],
+            "options": [
+              {
+                "key": "size",
+                "keyName": "Size",
+                "value": "0.85 fl oz"
+              }
+            ],
+            "createdAt": "2024-07-08T13:16:34.475Z",
+            "updatedAt": "2024-10-26T06:23:48.897Z"
+          }
+        ],
+        "createdAt": "2024-03-29T02:00:33Z",
+        "updatedAt": "2024-10-26T06:23:48.897Z"
+      }
+    ],
+    "categories": [
+      {
+        "name": "sale",
+        "index": 0
+      },
+      {
+        "name": "skincare",
+        "index": 1
+      },
+      {
+        "name": "treatments",
+        "index": 2
+      },
+      {
+        "name": "sheet-masks",
+        "index": 3
+      },
+      {
+        "name": "Sheet Masks",
+        "index": 6
+      }
+    ],
+    "createdAt": "2024-03-29T02:00:33Z",
+    "updatedAt": "2024-10-26T06:23:48.897Z"
+  },
+  {
+    "id": "660620b87112dace5e5f2bdf",
+    "productId": "54fcd94e-d810-3f55-939c-ce9efa999e4d",
+    "active": true,
+    "available": true,
+    "badges": ["same-day-pay"],
+    "brand": {
+      "name": "invisibobble",
+      "merchantBrand": false
+    },
+    "merchantId": "e0db9017-3094-4841-86e9-e1eb08887d75",
+    "merchantProductId": "2514127",
+    "commissionRate": 15,
+    "locales": [
+      {
+        "country": "US",
+        "language": "en-US",
+        "currency": "USD",
+        "active": true,
+        "available": true,
+        "variants": [
+          {
+            "merchantVariantId": "2514129",
+            "url": "https://www.ecosmetics.com/product/invisibobble-original-4/",
+            "title": "Invisibobble Original",
+            "description": "Introducing the Invisibobble Original hair accessory by Invisibobble, a truly revolutionary product that will transform the way you style your hair. With its unique and groundbreaking design, this hair tie is unlike anything youve ever used before. Crafted with the utmost care and precision, the Invisibobble Original is made from a special material that provides maximum comfort and hold without causing any damage to your precious locks. Its smooth surface eliminates the risk of hair breakage and split ends, giving you peace of mind while rocking your favorite hairstyles. This innovative hair accessory is not just functional, its also stylish. Available in a variety of vibrant colors, the Invisibobble Original adds a pop of fun to any outfit, making it perfect for both casual days and glamorous nights out. Say goodbye to hair kinks and pesky tangles with the Invisibobble Original, your hair will stay flawlessly in place throughout the day.But the benefits dont stop there. The Invisibobble Original is also waterproof, making it the ultimate choice for any water-related activities. Whether youre hitting the beach, going for a swim, or simply caught in a rain shower, your hairstyle will remain intact, giving you the confidence to take on the world, come rain or shine.Experience the magic of the Invisibobble Original and say hello to a hair tie that truly delivers outstanding results. Dont settle for ordinary hair accessories when you can have revolutionary beauty at your fingertips. Shop now and take your hair game to the next level with the Invisibobble Original.",
+            "price": 1.7,
+            "oldPrice": 1.7,
+            "stockCount": 2,
+            "active": true,
+            "available": true,
+            "images": [
+              {
+                "url": "https://www.ecosmetics.com/wp-content/uploads/2022/03/Invis-373022-OGPB-scaled.jpg",
+                "index": 0
+              }
+            ],
+            "options": [
+              {
+                "key": "size",
+                "keyName": "Size",
+                "value": "1.7oz."
+              },
+              {
+                "key": "color",
+                "keyName": "Color",
+                "value": "Pretzel Brown"
+              }
+            ],
+            "createdAt": "2024-09-12T14:13:15.799Z",
+            "updatedAt": "2024-10-26T06:22:49.57Z"
+          },
+          {
+            "merchantVariantId": "2514131",
+            "url": "https://www.ecosmetics.com/product/invisibobble-original-4/",
+            "title": "Invisibobble Original - Sparks Flying I'm Starstuck",
+            "description": "Introducing the Invisibobble Original hair accessory by Invisibobble, a truly revolutionary product that will transform the way you style your hair. With its unique and groundbreaking design, this hair tie is unlike anything youve ever used before. Crafted with the utmost care and precision, the Invisibobble Original is made from a special material that provides maximum comfort and hold without causing any damage to your precious locks. Its smooth surface eliminates the risk of hair breakage and split ends, giving you peace of mind while rocking your favorite hairstyles. This innovative hair accessory is not just functional, its also stylish. Available in a variety of vibrant colors, the Invisibobble Original adds a pop of fun to any outfit, making it perfect for both casual days and glamorous nights out. Say goodbye to hair kinks and pesky tangles with the Invisibobble Original, your hair will stay flawlessly in place throughout the day.But the benefits dont stop there. The Invisibobble Original is also waterproof, making it the ultimate choice for any water-related activities. Whether youre hitting the beach, going for a swim, or simply caught in a rain shower, your hairstyle will remain intact, giving you the confidence to take on the world, come rain or shine.Experience the magic of the Invisibobble Original and say hello to a hair tie that truly delivers outstanding results. Dont settle for ordinary hair accessories when you can have revolutionary beauty at your fingertips. Shop now and take your hair game to the next level with the Invisibobble Original.",
+            "price": 4.17,
+            "oldPrice": 4.17,
+            "stockCount": 4,
+            "active": true,
+            "available": true,
+            "images": [
+              {
+                "url": "https://www.ecosmetics.com/wp-content/uploads/2022/03/Invis-398223-OGSFIS-scaled.jpg",
+                "index": 0
+              }
+            ],
+            "options": [
+              {
+                "key": "size",
+                "keyName": "Size",
+                "value": "1.7oz."
+              },
+              {
+                "key": "color",
+                "keyName": "Color",
+                "value": "Sparks Flying I'm Starstuck"
+              }
+            ],
+            "createdAt": "2024-09-12T14:13:15.799Z",
+            "updatedAt": "2024-10-26T06:22:49.57Z"
+          },
+          {
+            "url": "https://www.ecosmetics.com/product/invisibobble-original-4/",
+            "title": "Invisibobble Original",
+            "description": "Introducing the Invisibobble Original hair accessory by Invisibobble, a truly revolutionary product that will transform the way you style your hair. With its unique and groundbreaking design, this hair tie is unlike anything youve ever used before. Crafted with the utmost care and precision, the Invisibobble Original is made from a special material that provides maximum comfort and hold without causing any damage to your precious locks. Its smooth surface eliminates the risk of hair breakage and split ends, giving you peace of mind while rocking your favorite hairstyles. This innovative hair accessory is not just functional, its also stylish. Available in a variety of vibrant colors, the Invisibobble Original adds a pop of fun to any outfit, making it perfect for both casual days and glamorous nights out. Say goodbye to hair kinks and pesky tangles with the Invisibobble Original, your hair will stay flawlessly in place throughout the day.But the benefits dont stop there. The Invisibobble Original is also waterproof, making it the ultimate choice for any water-related activities. Whether youre hitting the beach, going for a swim, or simply caught in a rain shower, your hairstyle will remain intact, giving you the confidence to take on the world, come rain or shine.Experience the magic of the Invisibobble Original and say hello to a hair tie that truly delivers outstanding results. Dont settle for ordinary hair accessories when you can have revolutionary beauty at your fingertips. Shop now and take your hair game to the next level with the Invisibobble Original.",
+            "price": 3.39,
+            "oldPrice": 3.39,
+            "stockCount": 0,
+            "active": false,
+            "available": false,
+            "images": [
+              {
+                "url": "https://www.ecosmetics.com/wp-content/uploads/2022/03/Invis-373022-OGPB-scaled.jpg",
+                "index": 0
+              }
+            ],
+            "options": [
+              {
+                "key": "size",
+                "keyName": "Size",
+                "value": "1.7oz."
+              },
+              {
+                "key": "color",
+                "keyName": "Color",
+                "value": "Pretzel Brown"
+              }
+            ],
+            "createdAt": "2024-07-08T13:16:34.475Z",
+            "updatedAt": "2024-10-26T06:24:43.226Z"
+          }
+        ],
+        "createdAt": "2024-03-29T02:00:24Z",
+        "updatedAt": "2024-10-26T06:24:43.226Z"
+      }
+    ],
+    "categories": [
+      {
+        "name": "sale",
+        "index": 0
+      },
+      {
+        "name": "hair",
+        "index": 1
+      },
+      {
+        "name": "hair-accessories",
+        "index": 2
+      },
+      {
+        "name": "elastics",
+        "index": 3
+      },
+      {
+        "name": "Elastics",
+        "index": 6
+      }
+    ],
+    "createdAt": "2024-03-29T02:00:24Z",
+    "updatedAt": "2024-10-26T06:24:43.226Z"
+  },
+  {
+    "id": "660620c27112dace5e5f7d77",
+    "productId": "a7ab2700-7664-3e5b-9349-2dd372cd1c89",
+    "active": true,
+    "available": true,
+    "badges": ["same-day-pay"],
+    "brand": {
+      "name": "Ardell",
+      "merchantBrand": false
+    },
+    "merchantId": "e0db9017-3094-4841-86e9-e1eb08887d75",
+    "merchantProductId": "3108797",
+    "commissionRate": 15,
+    "locales": [
+      {
+        "country": "US",
+        "language": "en-US",
+        "currency": "USD",
+        "active": true,
+        "available": true,
+        "variants": [
+          {
+            "merchantVariantId": "3108798",
+            "url": "https://www.ecosmetics.com/product/textureyes-lash-3/",
+            "title": "Textureyes Lash - 576",
+            "description": "Ardell's Textureyes Lash delivers a stunning blend of volume and flutter, perfect for enhancing any look. Crafted from 100% natural hair, these lashes feature a tousled, rounded design with layered fibers for a naturally captivating appearance.The Invisibandu00ae technology ensures all-day comfort, while medium volume and wispy textures provide a chic, effortless finish. Cruelty-free and vegan-friendly, these lashes make a beautiful choice for both you and the environment.",
+            "price": 1.7,
+            "oldPrice": 1.7,
+            "stockCount": 3,
+            "active": true,
+            "available": true,
+            "images": [
+              {
+                "url": "https://www.ecosmetics.com/wp-content/uploads/2022/05/ar_70488_pkg_textureyes-576_front.webp.jpg",
+                "index": 0
+              }
+            ],
+            "options": [
+              {
+                "key": "size",
+                "keyName": "Size",
+                "value": "1ct"
+              },
+              {
+                "key": "color",
+                "keyName": "Color",
+                "value": "576"
+              }
+            ],
+            "createdAt": "2024-09-12T14:13:15.799Z",
+            "updatedAt": "2024-10-26T06:22:49.57Z"
+          },
+          {
+            "merchantVariantId": "3108800",
+            "url": "https://www.ecosmetics.com/product/textureyes-lash-3/",
+            "title": "Textureyes Lash - 577",
+            "description": "Ardell's Textureyes Lash delivers a stunning blend of volume and flutter, perfect for enhancing any look. Crafted from 100% natural hair, these lashes feature a tousled, rounded design with layered fibers for a naturally captivating appearance.The Invisibandu00ae technology ensures all-day comfort, while medium volume and wispy textures provide a chic, effortless finish. Cruelty-free and vegan-friendly, these lashes make a beautiful choice for both you and the environment.",
+            "price": 2.34,
+            "oldPrice": 2.34,
+            "stockCount": 4,
+            "active": true,
+            "available": true,
+            "images": [
+              {
+                "url": "https://www.ecosmetics.com/wp-content/uploads/2022/05/ar_70489_pkg_textureyes-577_front.webp.jpg",
+                "index": 0
+              }
+            ],
+            "options": [
+              {
+                "key": "size",
+                "keyName": "Size",
+                "value": "1ct"
+              },
+              {
+                "key": "color",
+                "keyName": "Color",
+                "value": "577"
+              }
+            ],
+            "createdAt": "2024-09-12T14:13:15.799Z",
+            "updatedAt": "2024-10-26T06:22:49.57Z"
+          },
+          {
+            "url": "https://www.ecosmetics.com/product/textureyes-lash-3/",
+            "title": "Textureyes Lash - 576",
+            "description": "Introducing Textureyes Lash by Ardell an innovative beauty product that is set to revolutionize your lash game. Get ready to enhance your natural beauty with voluminous, fluttery lashes that will leave heads turning. Crafted with utmost precision and care, Textureyes Lash is formulated with a blend of nourishing ingredients designed to support lash growth and health. Infused with biotin and vitamin E, this mascara not only provides stunning volume but also conditions and strengthens your lashes, ensuring they remain luscious and full.The secret behind Textureyes Lash lies in its unique brush design that effortlessly captures every lash, coating them in a rich, jet-black formula. The result? Va-va-voom lashes that scream confidence. Say goodbye to clumpy, spidery lashes and hello to a flawless, fanned-out look that beautifully frames your eyes.This remarkable mascara also boasts a long-lasting formula that withstands the challenges of the day, be it a tearful farewell or a joyful celebration. No need to worry about smudging or flaking Textureyes Lash remains steadfast, ensuring your lashes stay picture-perfect from dawn to dusk.Indulge your senses with a subtle yet captivating scent that accompanies each application. The delicate fragrance adds an extra touch of luxury and elevates your beauty routine to new heights. So, why wait? Say goodbye to lackluster lashes and hello to the mesmerizing allure of Textureyes Lash. Transform your eyes and let your confidence soar. Get your hands on this beauty must-have today and experience the magic for yourself.",
+            "price": 3.4,
+            "oldPrice": 3.4,
+            "stockCount": 0,
+            "active": false,
+            "available": false,
+            "images": [
+              {
+                "url": "https://www.ecosmetics.com/wp-content/uploads/2022/05/ar_70488_pkg_textureyes-576_front.webp.jpg",
+                "index": 0
+              }
+            ],
+            "options": [
+              {
+                "key": "size",
+                "keyName": "Size",
+                "value": "1ct"
+              },
+              {
+                "key": "color",
+                "keyName": "Color",
+                "value": "576"
+              }
+            ],
+            "createdAt": "2024-07-08T13:16:34.475Z",
+            "updatedAt": "2024-10-26T06:24:51.398Z"
+          }
+        ],
+        "createdAt": "2024-03-29T02:00:34Z",
+        "updatedAt": "2024-10-26T06:24:51.398Z"
+      }
+    ],
+    "categories": [
+      {
+        "name": "sale",
+        "index": 0
+      },
+      {
+        "name": "makeup",
+        "index": 1
+      },
+      {
+        "name": "eyes",
+        "index": 2
+      },
+      {
+        "name": "eyelashes",
+        "index": 3
+      },
+      {
+        "name": "Eyelashes",
+        "index": 6
+      }
+    ],
+    "createdAt": "2024-03-29T02:00:34Z",
+    "updatedAt": "2024-10-26T06:24:51.398Z"
+  },
+  {
+    "id": "66a91b3a170619065fef9096",
+    "productId": "408e4111-e93f-369b-966d-588ba1f61209",
+    "active": true,
+    "available": true,
+    "badges": ["same-day-pay"],
+    "brand": {
+      "name": "Palmers",
+      "merchantBrand": false
+    },
+    "merchantId": "e0db9017-3094-4841-86e9-e1eb08887d75",
+    "merchantProductId": "4202290",
+    "commissionRate": 15,
+    "locales": [
+      {
+        "country": "US",
+        "language": "en-US",
+        "currency": "USD",
+        "active": true,
+        "available": true,
+        "variants": [
+          {
+            "merchantVariantId": "4202290",
+            "title": "Cocoa Butter Formula Moisturizing Lotion",
+            "description": "Palmers Cocoa Butter Formula Moisturizing Lotion is a must-have addition to your beauty routine. This indulgent lotion by Palmers, a trusted name in skincare, is enriched with the moisturizing power of cocoa butter. Its unique formula includes important ingredients that work together to nourish and hydrate your skin, leaving it soft, supple, and irresistible.What sets Palmers Cocoa Butter Formula Moisturizing Lotion apart is its rich, creamy texture that glides smoothly onto your skin, enveloping it in luxurious moisture. The key ingredient, cocoa butter, is renowned for its deep hydration properties and ability to improve skin elasticity. Packed with antioxidants and essential fatty acids, this lotion helps to restore your skins natural radiance and protect it from environmental stressors.But thats not all say goodbye to dry, dull skin and hello to a sumptuous chocolate aroma that lingers throughout the day. The enchanting scent of cocoa butter will transport your senses to a blissful oasis, making your skincare routine a delightful sensory experience.As you massage this heavenly lotion onto your body, youll notice how effortlessly it absorbs, leaving no greasy residue behind. Its the perfect way to pamper yourself after a long day, instantly rejuvenating your skin and soothing any rough patches. Whether youre seeking deep hydration, intense nourishment, or simply a moment of self-care, Palmers Cocoa Butter Formula Moisturizing Lotion is the dreamy solution your skin has been craving.Indulge in the beauty benefits of Palmers Cocoa Butter Formula Moisturizing Lotion today and unlock the secret to silky-smooth skin. Experience the lusciousness firsthand try it now and let Palmers enchant your senses with the power of cocoa butter. Your skin will thank you.",
+            "price": 1.9,
+            "oldPrice": 1.9,
+            "stockCount": 29,
+            "active": true,
+            "available": true,
+            "images": [
+              {
+                "url": "https://www.ecosmetics.com/wp-content/uploads/2023/09/nj33_OdJ9.jpeg",
+                "index": 0
+              }
+            ],
+            "options": [
+              {
+                "key": "size",
+                "keyName": "Size",
+                "value": "1.7oz"
+              }
+            ],
+            "createdAt": "2024-09-12T14:13:15.799Z",
+            "updatedAt": "2024-10-26T06:22:49.57Z"
+          },
+          {
+            "title": "Cocoa Butter Formula Moisturizing Lotion",
+            "description": "Palmers Cocoa Butter Formula Moisturizing Lotion is a must-have addition to your beauty routine. This indulgent lotion by Palmers, a trusted name in skincare, is enriched with the moisturizing power of cocoa butter. Its unique formula includes important ingredients that work together to nourish and hydrate your skin, leaving it soft, supple, and irresistible.What sets Palmers Cocoa Butter Formula Moisturizing Lotion apart is its rich, creamy texture that glides smoothly onto your skin, enveloping it in luxurious moisture. The key ingredient, cocoa butter, is renowned for its deep hydration properties and ability to improve skin elasticity. Packed with antioxidants and essential fatty acids, this lotion helps to restore your skins natural radiance and protect it from environmental stressors.But thats not all say goodbye to dry, dull skin and hello to a sumptuous chocolate aroma that lingers throughout the day. The enchanting scent of cocoa butter will transport your senses to a blissful oasis, making your skincare routine a delightful sensory experience.As you massage this heavenly lotion onto your body, youll notice how effortlessly it absorbs, leaving no greasy residue behind. Its the perfect way to pamper yourself after a long day, instantly rejuvenating your skin and soothing any rough patches. Whether youre seeking deep hydration, intense nourishment, or simply a moment of self-care, Palmers Cocoa Butter Formula Moisturizing Lotion is the dreamy solution your skin has been craving.Indulge in the beauty benefits of Palmers Cocoa Butter Formula Moisturizing Lotion today and unlock the secret to silky-smooth skin. Experience the lusciousness firsthand try it now and let Palmers enchant your senses with the power of cocoa butter. Your skin will thank you.",
+            "price": 1.9,
+            "oldPrice": 1.9,
+            "stockCount": 0,
+            "active": false,
+            "available": false,
+            "images": [
+              {
+                "url": "https://www.ecosmetics.com/wp-content/uploads/2023/09/nj33_OdJ9.jpeg",
+                "index": 0
+              }
+            ],
+            "options": [
+              {
+                "key": "size",
+                "keyName": "Size",
+                "value": "1.7oz"
+              }
+            ],
+            "createdAt": "2024-07-30T16:19:31.044Z",
+            "updatedAt": "2024-10-26T06:23:38.339Z"
+          }
+        ],
+        "createdAt": "2024-07-30T16:56:25.96Z",
+        "updatedAt": "2024-10-26T06:23:38.339Z"
+      }
+    ],
+    "categories": [
+      {
+        "name": "bath-body",
+        "index": 0
+      },
+      {
+        "name": "body-moisturizers",
+        "index": 1
+      },
+      {
+        "name": "body-lotion-cream",
+        "index": 2
+      },
+      {
+        "name": "Body Lotion & Cream",
+        "index": 6
+      }
+    ],
+    "createdAt": "2024-07-30T16:56:25.96Z",
+    "updatedAt": "2024-10-26T06:23:38.339Z"
+  },
+  {
+    "id": "660620c17112asdace5e5f7c95",
+    "productId": "8d29764b-b7ea-3d17-81f6-5882f58b65a2",
+    "active": true,
+    "available": true,
+    "badges": ["same-day-pay"],
+    "brand": {
+      "name": "Facetory",
+      "merchantBrand": false
+    },
+    "merchantId": "e0db9017-3094-4841-86e9-e1eb08887d75",
+    "merchantProductId": "3205055",
+    "commissionRate": 15,
+    "locales": [
+      {
+        "country": "US",
+        "language": "en-US",
+        "currency": "USD",
+        "active": true,
+        "available": true,
+        "variants": [
+          {
+            "merchantVariantId": "3205055",
+            "title": "Oats My Bananas Sheet Mask",
+            "description": "FaceTory. Calm irritated skin with our oats-so-amazing sheet mask featuring a soft banana fiber material! This milky essence contains 10% Oat Extract to soothe and moisturize your skin. Say hello to a smooth, supple, and glowing complexion!Learn more about the FaceTory brand and its products on our blog!",
+            "price": 1.7,
+            "oldPrice": 1.7,
+            "stockCount": 10,
+            "active": true,
+            "available": true,
+            "images": [
+              {
+                "url": "https://www.ecosmetics.com/wp-content/uploads/2022/09/Facetory-Oats-My-Bananas-Sheet-Mask-0.85-fl-oz-850014132170-1.png",
+                "index": 0
+              }
+            ],
+            "options": [
+              {
+                "key": "size",
+                "keyName": "Size",
+                "value": "0.85 fl oz"
+              }
+            ],
+            "createdAt": "2024-09-12T14:13:15.799Z",
+            "updatedAt": "2024-10-26T06:22:49.57Z"
+          },
+          {
+            "title": "Oats My Bananas Sheet Mask",
+            "description": "eCosmetics is an authorized retailer of FaceTory. Calm irritated skin with our oats-so-amazing sheet mask featuring a soft banana fiber material! This milky essence contains 10% Oat Extract to soothe and moisturize your skin. Say hello to a smooth, supple, and glowing complexion!Learn more about the FaceTory brand and its products on our blog!",
+            "price": 3.39,
+            "oldPrice": 3.39,
+            "stockCount": 0,
+            "active": false,
+            "available": false,
+            "images": [
+              {
+                "url": "https://www.ecosmetics.com/wp-content/uploads/2022/09/Facetory-Oats-My-Bananas-Sheet-Mask-0.85-fl-oz-850014132170-1.png",
+                "index": 0
+              }
+            ],
+            "options": [
+              {
+                "key": "size",
+                "keyName": "Size",
+                "value": "0.85 fl oz"
+              }
+            ],
+            "createdAt": "2024-07-08T13:16:34.475Z",
+            "updatedAt": "2024-10-26T06:23:48.897Z"
+          }
+        ],
+        "createdAt": "2024-03-29T02:00:33Z",
+        "updatedAt": "2024-10-26T06:23:48.897Z"
+      }
+    ],
+    "categories": [
+      {
+        "name": "sale",
+        "index": 0
+      },
+      {
+        "name": "skincare",
+        "index": 1
+      },
+      {
+        "name": "treatments",
+        "index": 2
+      },
+      {
+        "name": "sheet-masks",
+        "index": 3
+      },
+      {
+        "name": "Sheet Masks",
+        "index": 6
+      }
+    ],
+    "createdAt": "2024-03-29T02:00:33Z",
+    "updatedAt": "2024-10-26T06:23:48.897Z"
+  },
+  {
+    "id": "660620b87112daceas5e5f2bdf",
+    "productId": "54fcd94e-d810-3f55-939c-ce9efa999e4d",
+    "active": true,
+    "available": true,
+    "badges": ["same-day-pay"],
+    "brand": {
+      "name": "invisibobble",
+      "merchantBrand": false
+    },
+    "merchantId": "e0db9017-3094-4841-86e9-e1eb08887d75",
+    "merchantProductId": "2514127",
+    "commissionRate": 15,
+    "locales": [
+      {
+        "country": "US",
+        "language": "en-US",
+        "currency": "USD",
+        "active": true,
+        "available": true,
+        "variants": [
+          {
+            "merchantVariantId": "2514129",
+            "url": "https://www.ecosmetics.com/product/invisibobble-original-4/",
+            "title": "Invisibobble Original",
+            "description": "Introducing the Invisibobble Original hair accessory by Invisibobble, a truly revolutionary product that will transform the way you style your hair. With its unique and groundbreaking design, this hair tie is unlike anything youve ever used before. Crafted with the utmost care and precision, the Invisibobble Original is made from a special material that provides maximum comfort and hold without causing any damage to your precious locks. Its smooth surface eliminates the risk of hair breakage and split ends, giving you peace of mind while rocking your favorite hairstyles. This innovative hair accessory is not just functional, its also stylish. Available in a variety of vibrant colors, the Invisibobble Original adds a pop of fun to any outfit, making it perfect for both casual days and glamorous nights out. Say goodbye to hair kinks and pesky tangles with the Invisibobble Original, your hair will stay flawlessly in place throughout the day.But the benefits dont stop there. The Invisibobble Original is also waterproof, making it the ultimate choice for any water-related activities. Whether youre hitting the beach, going for a swim, or simply caught in a rain shower, your hairstyle will remain intact, giving you the confidence to take on the world, come rain or shine.Experience the magic of the Invisibobble Original and say hello to a hair tie that truly delivers outstanding results. Dont settle for ordinary hair accessories when you can have revolutionary beauty at your fingertips. Shop now and take your hair game to the next level with the Invisibobble Original.",
+            "price": 1.7,
+            "oldPrice": 1.7,
+            "stockCount": 2,
+            "active": true,
+            "available": true,
+            "images": [
+              {
+                "url": "https://www.ecosmetics.com/wp-content/uploads/2022/03/Invis-373022-OGPB-scaled.jpg",
+                "index": 0
+              }
+            ],
+            "options": [
+              {
+                "key": "size",
+                "keyName": "Size",
+                "value": "1.7oz."
+              },
+              {
+                "key": "color",
+                "keyName": "Color",
+                "value": "Pretzel Brown"
+              }
+            ],
+            "createdAt": "2024-09-12T14:13:15.799Z",
+            "updatedAt": "2024-10-26T06:22:49.57Z"
+          },
+          {
+            "merchantVariantId": "2514131",
+            "url": "https://www.ecosmetics.com/product/invisibobble-original-4/",
+            "title": "Invisibobble Original - Sparks Flying I'm Starstuck",
+            "description": "Introducing the Invisibobble Original hair accessory by Invisibobble, a truly revolutionary product that will transform the way you style your hair. With its unique and groundbreaking design, this hair tie is unlike anything youve ever used before. Crafted with the utmost care and precision, the Invisibobble Original is made from a special material that provides maximum comfort and hold without causing any damage to your precious locks. Its smooth surface eliminates the risk of hair breakage and split ends, giving you peace of mind while rocking your favorite hairstyles. This innovative hair accessory is not just functional, its also stylish. Available in a variety of vibrant colors, the Invisibobble Original adds a pop of fun to any outfit, making it perfect for both casual days and glamorous nights out. Say goodbye to hair kinks and pesky tangles with the Invisibobble Original, your hair will stay flawlessly in place throughout the day.But the benefits dont stop there. The Invisibobble Original is also waterproof, making it the ultimate choice for any water-related activities. Whether youre hitting the beach, going for a swim, or simply caught in a rain shower, your hairstyle will remain intact, giving you the confidence to take on the world, come rain or shine.Experience the magic of the Invisibobble Original and say hello to a hair tie that truly delivers outstanding results. Dont settle for ordinary hair accessories when you can have revolutionary beauty at your fingertips. Shop now and take your hair game to the next level with the Invisibobble Original.",
+            "price": 4.17,
+            "oldPrice": 4.17,
+            "stockCount": 4,
+            "active": true,
+            "available": true,
+            "images": [
+              {
+                "url": "https://www.ecosmetics.com/wp-content/uploads/2022/03/Invis-398223-OGSFIS-scaled.jpg",
+                "index": 0
+              }
+            ],
+            "options": [
+              {
+                "key": "size",
+                "keyName": "Size",
+                "value": "1.7oz."
+              },
+              {
+                "key": "color",
+                "keyName": "Color",
+                "value": "Sparks Flying I'm Starstuck"
+              }
+            ],
+            "createdAt": "2024-09-12T14:13:15.799Z",
+            "updatedAt": "2024-10-26T06:22:49.57Z"
+          },
+          {
+            "url": "https://www.ecosmetics.com/product/invisibobble-original-4/",
+            "title": "Invisibobble Original",
+            "description": "Introducing the Invisibobble Original hair accessory by Invisibobble, a truly revolutionary product that will transform the way you style your hair. With its unique and groundbreaking design, this hair tie is unlike anything youve ever used before. Crafted with the utmost care and precision, the Invisibobble Original is made from a special material that provides maximum comfort and hold without causing any damage to your precious locks. Its smooth surface eliminates the risk of hair breakage and split ends, giving you peace of mind while rocking your favorite hairstyles. This innovative hair accessory is not just functional, its also stylish. Available in a variety of vibrant colors, the Invisibobble Original adds a pop of fun to any outfit, making it perfect for both casual days and glamorous nights out. Say goodbye to hair kinks and pesky tangles with the Invisibobble Original, your hair will stay flawlessly in place throughout the day.But the benefits dont stop there. The Invisibobble Original is also waterproof, making it the ultimate choice for any water-related activities. Whether youre hitting the beach, going for a swim, or simply caught in a rain shower, your hairstyle will remain intact, giving you the confidence to take on the world, come rain or shine.Experience the magic of the Invisibobble Original and say hello to a hair tie that truly delivers outstanding results. Dont settle for ordinary hair accessories when you can have revolutionary beauty at your fingertips. Shop now and take your hair game to the next level with the Invisibobble Original.",
+            "price": 3.39,
+            "oldPrice": 3.39,
+            "stockCount": 0,
+            "active": false,
+            "available": false,
+            "images": [
+              {
+                "url": "https://www.ecosmetics.com/wp-content/uploads/2022/03/Invis-373022-OGPB-scaled.jpg",
+                "index": 0
+              }
+            ],
+            "options": [
+              {
+                "key": "size",
+                "keyName": "Size",
+                "value": "1.7oz."
+              },
+              {
+                "key": "color",
+                "keyName": "Color",
+                "value": "Pretzel Brown"
+              }
+            ],
+            "createdAt": "2024-07-08T13:16:34.475Z",
+            "updatedAt": "2024-10-26T06:24:43.226Z"
+          }
+        ],
+        "createdAt": "2024-03-29T02:00:24Z",
+        "updatedAt": "2024-10-26T06:24:43.226Z"
+      }
+    ],
+    "categories": [
+      {
+        "name": "sale",
+        "index": 0
+      },
+      {
+        "name": "hair",
+        "index": 1
+      },
+      {
+        "name": "hair-accessories",
+        "index": 2
+      },
+      {
+        "name": "elastics",
+        "index": 3
+      },
+      {
+        "name": "Elastics",
+        "index": 6
+      }
+    ],
+    "createdAt": "2024-03-29T02:00:24Z",
+    "updatedAt": "2024-10-26T06:24:43.226Z"
+  }
+]
